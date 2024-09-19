@@ -94,7 +94,7 @@ var tianliGPT = {
     // }
 
     try {
-      const response = await fetch('https://notionai.lovefirefly520.workers.dev/?token=kycnichaschkashcaj', {
+      const response = await fetch('https://ai.lovechina.me/?token=kycnichaschkashcaj', {
         signal: signal,
         method: "POST",
         headers: {
