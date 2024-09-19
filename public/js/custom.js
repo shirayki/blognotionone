@@ -94,7 +94,7 @@ var tianliGPT = {
     // }
 
     try {
-      const response = await fetch('https://ai.lovechina.me/api/summary?token=kycnichaschkashcaj', {
+      const response = await fetch('https://ai.ntb.us.kg/api/summary?token=kycnichaschkashcaj', {
         signal: signal,
         method: "POST",
         headers: {
