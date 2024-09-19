@@ -94,7 +94,7 @@ var tianliGPT = {
     // }
 
     try {
-      const response = await fetch('替换你自己的', {
+      const response = await fetch('https://ai.ntb.us.kg/?token=200', {
         signal: signal,
         method: "POST",
         headers: {
